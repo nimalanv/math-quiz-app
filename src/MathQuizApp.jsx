@@ -44,7 +44,7 @@ const MathQuizApp = () => {
     { Question: "What is the perimeter of a square with area 49?", Answer: "28", Year: "04-05", Type: "CHAMPS", Number: 38 },
     { Question: "Evaluate: 3 cubed.", Answer: "27", Year: "04-05", Type: "CHAMPS", Number: 39 },
     { Question: "Divide 1024 by 8.", Answer: "128", Year: "04-05", Type: "CHAMPS", Number: 40 },
-    { Question: "If **** has 130 dimes, how many dollars does he have?", Answer: "13", Year: "04-05", Type: "CHAMPS", Number: 41 },
+    { Question: "If John has 130 dimes, how many dollars does he have?", Answer: "13", Year: "04-05", Type: "CHAMPS", Number: 41 },
     { Question: "What is 79 times the only even prime?", Answer: "158", Year: "04-05", Type: "CHAMPS", Number: 42 },
     { Question: "Compute 35 divided by 7.", Answer: "5", Year: "04-05", Type: "CHAMPS", Number: 43 },
     { Question: "What is the perimeter of a regular hexagon with side length 5?", Answer: "30", Year: "04-05", Type: "CHAMPS", Number: 44 },
@@ -660,7 +660,7 @@ const MathQuizApp = () => {
         <div className="bg-white rounded-lg shadow-xl p-10 text-center max-w-lg w-full border border-gray-200">
           <div className="mb-8">
             <h1 className="text-4xl font-bold text-gray-800 mb-3">
-              Mental Math Quiz
+              MIC Mental Math Quiz (GR 5)
             </h1>
             <div className="h-1 bg-gradient-to-r from-blue-500 to-green-500 rounded-full mx-auto w-24"></div>
           </div>
