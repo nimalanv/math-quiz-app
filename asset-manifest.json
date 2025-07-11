@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/math-quiz-app/static/css/main.806da959.css",
-    "main.js": "/math-quiz-app/static/js/main.9d907f9f.js",
+    "main.js": "/math-quiz-app/static/js/main.b913c52b.js",
     "index.html": "/math-quiz-app/index.html",
     "main.806da959.css.map": "/math-quiz-app/static/css/main.806da959.css.map",
-    "main.9d907f9f.js.map": "/math-quiz-app/static/js/main.9d907f9f.js.map"
+    "main.b913c52b.js.map": "/math-quiz-app/static/js/main.b913c52b.js.map"
   },
   "entrypoints": [
     "static/css/main.806da959.css",
-    "static/js/main.9d907f9f.js"
+    "static/js/main.b913c52b.js"
   ]
 }
